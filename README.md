@@ -5,10 +5,10 @@
 - 💬 Ask me about anything, I'm happy to help.
 - 📫 How to reach me:
   - 📞 Telephone: 15259695906
-  - 📱 QQ:601122452
+  - 📱 QQ: 601122452
   - ✉️ Email: cshanppy@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to play chess, solve puzzles, and I'm also into calligraphy, badminton, and the game "King of Glory"!
+- ⚡ Fun fact: I love to play chess, solve puzzles, and I'm also into calligraphy, badminton.
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=5000&color=70A5FD&background=3982C800&center=true&vCenter=true&width=435&height=60&lines=Welcome+to+my+homepage" alt="Typing SVG" /></a>
