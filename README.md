@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Junle!
 
 - 🔭 I’m currently studying at **Harbin Institute of Technology**.
-- 🌱 I’m currently learning DB4AI and data mining.
+- 🌱 I’m currently learning database and data mining.
 - 💬 Ask me about anything, I'm happy to help.
 - 📫 How to reach me:
   - 📞 Telephone: 15259695906
